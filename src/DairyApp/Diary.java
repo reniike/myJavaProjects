@@ -9,6 +9,7 @@ public class Diary {
     private String username;
     private String password;
     private boolean islocked = true;
+
 //    private int id;
 
     public Diary(String username, String password) {
